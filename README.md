@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com//laravel-quiz-app.git project-name
+  git clone https://github.com/FatimaEz-zahraaAIT-HSSAIN/Laravel-QCM.git project-name
 ```
 
 Go to the project directory
@@ -20,6 +20,10 @@ Go to the project directory
 ```
 
 -   Copy .env.example file to .env and edit database credentials there
+
+```bash
+    composer update
+```
 
 ```bash
     composer install
